@@ -6,7 +6,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    background: linear-gradient(to right, #ffffff, #d0cccc);
 }
 
 #qr-reader {
@@ -24,15 +24,4 @@ body {
     font-weight: bold;
     text-align: center;
     margin-top: 20px;
-}
-
-h1 {
-    font-size: 2em;
-    color: #333;
-    margin-bottom: 20px;
-    font-weight: 700;
-}
-
-.container {
-    text-align: center;
 }
